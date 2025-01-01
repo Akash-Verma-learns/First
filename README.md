@@ -1,2 +1,2 @@
-#Trading OrderBook Simulator in OCaml
+# Trading OrderBook Simulator in OCaml
 First OCaml Project
